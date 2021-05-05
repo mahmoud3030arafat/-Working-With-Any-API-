@@ -1,10 +1,4 @@
-//
-//  ViewController.swift
-//  UDDER
-//
-//  Created by Mahmoud on 5/4/21.
-//  Copyright © 2021 mahmoud. All rights reserved.
-//
+
 
 import UIKit
 
